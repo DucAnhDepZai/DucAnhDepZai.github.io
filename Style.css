@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(1, 3, 10);
+    color: chartreuse;
+    font-family: 'Birthstone', sans-serif;
+}
+.avatar{
+    border-radius: 160px;
+
+}
