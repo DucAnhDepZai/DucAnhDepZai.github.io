@@ -8,3 +8,10 @@ body{
     border-radius: 160px;
 
 }
+.button{
+    padding: 20px;
+    color: rgb(107, 114, 90);
+    font-size: 75px;
+    font-family: 'Birthstone', sans-serif;
+    border-radius: 160px;
+}
