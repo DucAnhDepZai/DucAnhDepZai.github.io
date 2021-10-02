@@ -1,7 +1,8 @@
 body{
-    background-color: rgb(1, 3, 10);
-    color: chartreuse;
+    background-color: rgb(182, 201, 138);
+    color: rgb(107, 114, 90);
     font-family: 'Birthstone', sans-serif;
+    font-size: 75px;
 }
 .avatar{
     border-radius: 160px;
