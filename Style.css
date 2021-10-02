@@ -1,17 +1,23 @@
 body{
-    background-color: rgb(182, 201, 138);
-    color: rgb(107, 114, 90);
+    padding: 70px;
+    background-color: rgb(26, 50, 77);
+    color: rgb(156, 173, 117);
     font-family: 'Birthstone', sans-serif;
-    font-size: 75px;
+    font-size: 35px;
 }
 .avatar{
     border-radius: 160px;
-
 }
 .button{
-    padding: 20px;
+    padding: 15px;
     color: rgb(107, 114, 90);
-    font-size: 75px;
+    font-size: 25px;
     font-family: 'Birthstone', sans-serif;
-    border-radius: 160px;
+    border-radius: 120px;
+    width: 200px;
+    margin-bottom: 12px;
+}
+.button:hover{
+    color: rgb(253, 253, 253);
+    background-color: rgb(4, 1, 14);
 }
